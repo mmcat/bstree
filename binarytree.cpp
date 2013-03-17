@@ -3,7 +3,7 @@
  *
  *       Filename:  binarytree.cpp
  *
- *    Description:  
+ *    Description: BST 
  *
  *        Version:  1.0
  *        Created:  03/14/2013 20:59:18
