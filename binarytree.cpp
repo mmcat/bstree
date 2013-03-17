@@ -10,7 +10,7 @@
  *       Revision:  none
  *       Compiler:  g++
  *
- *         Author:  YOUR NAME, 
+ *         Author:  YOUR NAME 
  *   Organization:  
  *
  * =====================================================================================
